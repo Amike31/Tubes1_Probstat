@@ -1,0 +1,10 @@
+kurtosis Fischer
+disribusi normal = 0
+leptokurtik > 0 (lebih tertarik ke atas)
+platykurtik < 0 (lebih landai ke bawah)
+
+skewness
+normal = sekitar 0
+positif > 0.5 (moderate) atau > 1 (high), modus di kiri
+negatif < -0.5 (moderate) atau < -1 (high), modus di kanan
+
